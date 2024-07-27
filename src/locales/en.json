@@ -1,0 +1,222 @@
+{
+  "alert": {
+    "saved-as-template": "Document \"{doc}\" saved as template",
+    "renamed-document": "Renamed project",
+    "saved-as-document": "Template  \"{template}\" saved as document \"{doc}\"",
+    "renamed-template": "Renamed template"
+  },
+  "editor": {
+    "styles": {
+      "styles": "Styles",
+      "normal": "Normal text",
+      "small": "Small text"
+    },
+    "link": {
+      "placeholder": "Enter your link here ..."
+    },
+    "file-menu": {
+      "templates": "Templates",
+      "save-as-template": "Save as template",
+      "rename-document": "Rename project",
+      "save-as-document": "Save as document",
+      "rename-template": "Rename template"
+    },
+    "version-menu": {
+      "add-version": "Add Version",
+      "rename-version": "Rename",
+      "duplicate-version": "Duplicate",
+      "delete-version": "Delete"
+    },
+    "section-menu": {
+      "rename": "Rename",
+      "swap-color": "Swap Color",
+      "duplicate": "Duplicate",
+      "delete": "Delete"
+    },
+    "export": "Export"
+  },
+  "main": {
+    "message": "<span class=\"hi-you font-weight-bold\">Hi {name}, </span><br/><span class=\"welcome font-weight-bold\">Welcome</span>",
+    "dashboard": "Main Dashboard",
+    "vue": "About Vue",
+    "vuetify": "About Vuetify UI"
+  },
+  "nav": {
+    "recent": "Recent",
+    "documents": "Documents",
+    "templates": "Templates",
+    "archived": "Archived",
+    "clients": "Clients",
+    "new-folder": "New Folder",
+    "select-folder": "Select a folder"
+  },
+  "user": {
+    "account": "Account",
+    "day-mode": "Day Mode",
+    "night-mode": "Night Mode",
+    "roadmap": "Roadmap",
+    "report-bug": "Report Bug",
+    "request-feature": "Request Feature",
+    "changelog": "Changelog",
+    "tour": "Start Tour",
+    "introduction": "Itroduction",
+    "help": "Help Center",
+    "legal-info": "Legal Information",
+    "signout": "Sign Out",
+    "notification": "Recent Notification",
+    "clear-activity": "Clear recent activity"
+  },
+  "workspace": {
+    "new": "New Workspace",
+    "edit": "Edit Workspace",
+    "delete": "Delete Workspace"
+  },
+  "directory": {
+    "directory": "Directory {dir}: {name}"
+  },
+  "document": {
+    "rename": "Rename",
+    "move": "Move To",
+    "copy": "Copy Link",
+    "duplicate": "Duplicate",
+    "archive": "Archive",
+    "unarchive": "Unarchive",
+    "create": "Add New",
+    "created": "Created",
+    "updated": "Edited",
+    "opened": "Viewed",
+    "menu": {
+      "rename": "Rename",
+      "move": "Move to",
+      "copy": "Copy Link",
+      "duplicate": "Duplicate",
+      "archive": "Archive",
+      "delete": "Delete"
+    },
+    "filter": {
+      "search": "Search",
+      "edited": "Last edited",
+      "created": "last created",
+      "abc": "Alphabetically"
+    }
+  },
+  "template": {
+    "templates": "Templates",
+    "created": "Created",
+    "duplicated": "Duplicated",
+    "menu": {
+      "rename": "Rename",
+      "duplicate": "Duplicate",
+      "delete": "Delete"
+    },
+    "filter": {
+      "search": "Search",
+      "edited": "Last edited",
+      "created": "last created",
+      "abc": "Alphabetically"
+    }
+  },
+  "sort": {
+    "sort-by": "Sort by",
+    "last-edited": "Last edited",
+    "last-created": "Last created",
+    "abc": "Alphabetically"
+  },
+  "dialog": {
+    "cancel": "Cancel",
+    "create": "Create",
+    "done": "Done",
+    "move": "Move",
+    "version": {
+      "name": "New Name",
+      "rename": "Rename Document Version",
+      "rename-desc": "Change the name of your current document version"
+    },
+    "document": {
+      "create": "Create Project",
+      "create-desc": "Choose a name and decide where you want to save the project.",
+      "name": "Project Name",
+      "rename": "Rename Project",
+      "rename-desc": "Change the name of your current project",
+      "move": "Move \"%{doc}\" to",
+      "move-desc": "Choose where to move your project",
+      "choose-directory": "Choose Directory"
+    },
+    "document-from-template": {
+      "create": "Start Project from Template",
+      "create-desc": "Choose the directory where you want to save the new project.",
+      "name": "New Project Name",
+      "choose-directory": "Choose Directory"
+    },
+    "workspace": {
+      "name": "Name",
+      "new": "New workspace",
+      "new-desc": "Create a new workspace to help organize all your folders and projects.",
+      "edit": "Edit Workspace",
+      "edit-desc": "Rename your current workspace or delete if no longer needed.",
+      "delete": "Delete Workspace"
+    },
+    "folder": {
+      "name": "Name",
+      "new": "New Folder",
+      "new-desc": "Create a new folder in the <strong>Personal Workspace</strong> to help organize your projects.",
+      "rename": "Rename Directory",
+      "rename-desc": "Change the name of your current directory.",
+      "menu": {
+        "rename": "Rename",
+        "delete": "Delete"
+      }
+    },
+    "template": {
+      "name": "Name",
+      "new": "New Template",
+      "new-desc": "Create a new template.",
+      "rename": "Rename Template",
+      "rename-desc": "Change the name of your current template.",
+      "menu": {
+        "rename": "Rename",
+        "delete": "Delete"
+      }
+    }
+  },
+  "account": {
+    "settings": "Account settings",
+    "avatar": {
+      "new": "Upload New",
+      "delete": "Delete Avatar",
+      "desc": "Min. 200x200px, .PNG or .JPEG"
+    },
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "email": "Your Email",
+    "pwd": {
+      "change": "Change Password",
+      "old": "Old Password",
+      "new": "New Password"
+    },
+    "cancel": "Cancel",
+    "update": "Update Profile",
+    "login-form": {
+      "email": "Email",
+      "pwd": "Password",
+      "login": "Login",
+      "desc": "Log into your account or register for a new one",
+      "register": "Register"
+    },
+    "register-form": {
+      "first-name": "First Name",
+      "last-name": "Last Name",
+      "username": "Username",
+      "email": "Your Email",
+      "pwd": "Password",
+      "phone": "Phone",
+      "register": "Register",
+      "cancel": "Cancel"
+    }
+  },
+  "banner": {
+    "title": "Getting Started",
+    "desc": "Learn how to start crafting web copy in (Name).",
+    "start": "Quickstart Guide"
+  }
+}

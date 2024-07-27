@@ -1,0 +1,97 @@
+{
+  "hello": "Hola i18n",
+  "main": {
+    "message": "Oink i18n !!",
+    "dashboard": "Dashboard",
+    "vue": "Acerca de Vue",
+    "vuetify": "Acerca de Vuetify UI"
+  },
+  "nav": {
+    "recent": "Reciente",
+    "documents": "Documentos",
+    "templates": "Plantillas",
+    "archived": "Guardados",
+    "clients": "Clientes",
+    "new-folder": "New Folder"
+  },
+  "user": {
+    "account": "Account",
+    "nightmode": "Night Mode",
+    "roadmap": "Roadmap",
+    "request-feature": "Request Feature",
+    "changelog": "Changelog",
+    "tour": "Start Tour",
+    "help": "Help Center",
+    "legal-info": "Legal Information",
+    "signout": "Sign Out",
+    "notification": "Recent Notification",
+    "clear-activity": "Clear recent activity"
+  },
+  "workspace": {
+    "agency": "My Agency",
+    "new": "New Workspace",
+    "edit": "Edit Workspace",
+    "delete": "Delete Workspace"
+  },
+  "document": {
+    "rename": "Rename",
+    "move": "Move To",
+    "copy": "Copy Link",
+    "duplicate": "Duplicate",
+    "archive": "Archive",
+    "create": "Add New"
+  },
+  "folder": {
+    "new": "New Folder",
+    "new-desc": "Create a new folder in the <strong>Personal Workspace</strong> to help organize your projects." 
+  },
+  "sort": {
+    "last-edited": "Last edited",
+    "last-created": "Last created",
+    "abc": "Alphabetically"
+  },
+  "dialog": {
+    "cancel": "Cancel",
+    "create": "Create",
+    "done": "Done",
+    "move": "Move",
+    "document": {
+      "create": "Create Project",
+      "create-desc": "Pick where to create your new project",
+      "rename": "Rename Project",
+      "rename-desc": "Change the name of your current project",
+      "move": "move \"{0}\" to",
+      "move-desc": "Choose where to move your project" 
+    },
+    "workspace": {
+      "new": "New workspace",
+      "new-desc": "Create a new workspace to help organize all your folders and projects.",
+      "edit": "Edit Workspace",
+      "edit-desc": "Rename your current workspace or delete if no longer needed.",
+      "delete": "Delete Workspace"
+    }
+  },
+  "account": {
+    "settings": "Account settings",
+    "avatar": {
+      "new": "Upload New",
+      "delete": "Delete Avatar",
+      "desc": "Min. 200x200px, .PNG or .JPEG"
+    },
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "email": "Your Email",
+    "pwd": {
+      "change": "Change Password",
+      "old": "Old Password",
+      "new": "New Password"
+    },
+    "cancel": "Cancel",
+    "update": "Update Profile"
+  },
+  "banner": {
+    "title": "It's time to Write.",
+    "desc": "Learn how to use Unity to kick start your new project.",
+    "start": "See how it works"
+  }
+}
